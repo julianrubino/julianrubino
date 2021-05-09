@@ -1,9 +1,9 @@
 ### Hello 👋
 
-My name is Julian Rubino, I'm from Argentina and I'm an SRE.
-I enjoy dynamic teamwork and challenging problems to find innovative and creative solutions, in a flexible environment that allows and promotes the contribution of ideas.
-My colleagues highlight my enthusiasm for learning, teaching and my capability to relate and expand my ideas.
-Currently working on Elementum.
+My name is Julian Rubino, I'm from Argentina and I'm an SRE.  
+I enjoy dynamic teamwork and challenging problems to find innovative and creative solutions, in a flexible environment that allows and promotes the contribution of ideas.  
+My colleagues highlight my enthusiasm for learning, teaching and my capability to relate and expand my ideas.  
+Currently working on Elementum.  
 
 ### Skills
 
