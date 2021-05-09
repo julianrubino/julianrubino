@@ -7,7 +7,7 @@ Currently working on Elementum.
 
 ### Skills
 
-## SRE:
+#### SRE:
 - AWS Cloud services (EC2, RDS, SES, SQS, S3, Route53, Api Gateway, Elasticsearch, ElastiCache (Redis), DynamoDB, Aurora PostgreSQL/MySQL, VPC, VPC Peerings, etc.)
 - Terraform
 - Kubernetes
@@ -16,7 +16,7 @@ Currently working on Elementum.
 - Critical thinking, decision-making and problem solving
 - Linux
 
-## Dev:
+#### Dev:
 - HTML, CSS, Javascript
 - React.js
 - Node.js
