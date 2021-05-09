@@ -14,14 +14,16 @@ Currently working on Elementum.
 - Chef
 - Vault
 - Linux
+- Jenkins
+- Docker
+- Python
+- Bash
+- SumoLogic
 
 #### Dev:
 - HTML, CSS, Javascript
 - React.js
 - Node.js
 - Java
-- Python
 - GitHub -> GitFlow
-- Jenkins
-- Docker
 - Sonarqube
