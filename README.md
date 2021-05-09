@@ -13,7 +13,6 @@ Currently working on Elementum.
 - Kubernetes
 - Chef
 - Vault
-- Critical thinking, decision-making and problem solving
 - Linux
 
 #### Dev:
