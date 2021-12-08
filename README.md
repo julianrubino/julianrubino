@@ -9,16 +9,21 @@ Currently working on Elementum.
 
 #### SRE:
 - AWS Cloud services (EC2, RDS, SES, SQS, S3, Route53, Api Gateway, Elasticsearch, ElastiCache (Redis), DynamoDB, Aurora PostgreSQL/MySQL, VPC, VPC Peerings, etc.)
+- GCP
 - Terraform
 - Kubernetes
 - Chef
 - Vault
 - Linux
 - Jenkins
+- Gitlab
+- GitHub Actions
 - Docker
 - Python
 - Bash
 - SumoLogic
+- New Relic
+- Sentry
 
 #### Dev:
 - HTML, CSS, Javascript
