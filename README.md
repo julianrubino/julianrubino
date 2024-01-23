@@ -1,34 +1,27 @@
 ### Hello 👋
 
-My name is [Julian Rubino](https://www.linkedin.com/in/julian-rubino-068b54b5/), I'm from Argentina and I'm a SRE.  
-I enjoy dynamic teamwork and challenging problems to find innovative and creative solutions, in a flexible environment that allows and promotes the contribution of ideas.  
-My colleagues highlight my enthusiasm for learning, teaching and my capability to relate and expand my ideas.  
-Currently working on Elementum.  
+My name is [Julian Rubino](https://www.linkedin.com/in/julianrubino/), and I hail from Argentina. I'm a seasoned Site Reliability Engineer (SRE), DevSecOps practitioner, and Developer with a strong focus on security.
 
-### Skills
+I thrive in dynamic team environments and relish tackling challenging problems, always striving to find innovative and creative solutions. I am drawn to flexible work atmospheres that foster the exchange and implementation of ideas. My colleagues often commend my passion for learning, teaching, and my ability to effectively communicate and expand on ideas.
+
+### Skills (constantly evolving)
+
+### Blockchain:
+- Proficient in Cosmos, Tendermint, Binance Smart Chain (BSC), Ethereum (ETH), Polygon.
+- Experienced in RPCs (archive, non-archive), state-sync, validators configuration, management, and maintenance.
+- Skilled in chain monitoring, tooling, GovOps, and Chain/Infra Security.
 
 #### SRE:
-- AWS Cloud services (EC2, RDS, SES, SQS, S3, Route53, Api Gateway, Elasticsearch, ElastiCache (Redis), DynamoDB, Aurora PostgreSQL/MySQL, VPC, VPC Peerings, etc.)
-- GCP
-- Terraform
-- Kubernetes
-- Chef
-- Vault
-- Linux
-- Jenkins
-- Gitlab
-- GitHub Actions
-- Docker
-- Python
-- Bash
-- SumoLogic
-- New Relic
-- Sentry
+- Cloud Platforms: AWS, GCP, Digital Ocean
+- Infrastructure as Code: Terraform, Crossplane
+- Container Orchestration: Kubernetes, Docker, Helm, ArgoCD, Kustomize
+- Configuration Management: Chef, Ansible
+- Secrets Management: Vault, Doppler
+- CI/CD: Jenkins, Gitlab, GitHub Actions, Spacelift
+- Monitoring and Logging: Datadog, Prometheus, Grafana, Opentelemetry, SumoLogic, New Relic, Sentry
+- Operating System: Linux/MacOS
+- Security: Falco, ZAP, DAST, SAST, GitGuardian, Cloud and k8s hardening, Image signing, Checkov, Dependabot, Trivy, Sonarqube
 
-#### Dev:
-- HTML, CSS, Javascript
-- React.js
-- Node.js
-- Java
-- GitHub -> GitFlow
-- Sonarqube
+#### Development:
+- Languages: Python, Golang, Bash scripting, HTML, CSS, Javascript, Java, Groovy
+- Web Technologies: React.js, Node.js
