@@ -8,7 +8,7 @@ I thrive in dynamic team environments and relish tackling challenging problems, 
 
 ### Blockchain:
 - Proficient in Cosmos, Tendermint, Binance Smart Chain (BSC), Ethereum (ETH), Polygon.
-- Experienced in RPCs (archive, non-archive), state-sync, validators configuration, management, and maintenance.
+- Experienced in RPCs (archive, non-archive), state-sync, validators (setup, management, and maintenance).
 - Skilled in chain monitoring, tooling, GovOps, and Chain/Infra Security.
 
 #### SRE:
